@@ -18,3 +18,5 @@ Prototype: <link, from step 6>
 
 ## AI use (whole project)
 <tool · what for · what I changed>, or: none
+
+### Figma links: https://www.figma.com/board/fBAoA9s2JgKRnPGbmi0jNA/lovebug_figjamboard?node-id=0-1&t=KB5fGpVOfInccSZ9-1 https://www.figma.com/design/jgkR6Nyvqs0RDGKi8Gi16w/lovebug---makeup-tracker?node-id=0-1&t=y3F8fJ7pqGO8PwU7-1
