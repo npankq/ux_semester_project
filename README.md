@@ -2,11 +2,11 @@
 
 ## UX Studies for METU
 ### Student: <Nagy Panka Flora>  ·  Platform: <responsive web>
-Figma design file: <link, "anyone with the link can view">
-FigJam research board: <link, "anyone with the link can view">
+## Figma research board: https://www.figma.com/board/fBAoA9s2JgKRnPGbmi0jNA/lovebug_figjamboard?node-id=0-1&t=KB5fGpVOfInccSZ9-1 "anyone with the link can view">
+## FigJam design file: https://www.figma.com/design/jgkR6Nyvqs0RDGKi8Gi16w/lovebug---makeup-tracker?node-id=0-1&t=y3F8fJ7pqGO8PwU7-1 "anyone with the link can view">
 Prototype: <link, from step 6>
 ## The idea in one sentence
-<App> helps <who> to <task> when <situation>.
+## Lovebug helps people to track their makeup and skincare products when it gets overwhelming to remember.
 
 ## Status
 - [ ] Step 1 · Idea and references (due: session 2)
@@ -19,4 +19,4 @@ Prototype: <link, from step 6>
 ## AI use (whole project)
 <tool · what for · what I changed>, or: none
 
-### Figma links: https://www.figma.com/board/fBAoA9s2JgKRnPGbmi0jNA/lovebug_figjamboard?node-id=0-1&t=KB5fGpVOfInccSZ9-1 https://www.figma.com/design/jgkR6Nyvqs0RDGKi8Gi16w/lovebug---makeup-tracker?node-id=0-1&t=y3F8fJ7pqGO8PwU7-1
+
